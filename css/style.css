@@ -67,11 +67,11 @@ main{
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin: 30px 290px 20px 290px;
+    margin: 0px 290px 20px 290px;
 }
 
 #cartao h1{
-    font-size: 50px;
+    font-size: 60px;
     font-weight: 700;
     color: #fff;
     line-height: 73px;
@@ -162,8 +162,8 @@ main{
 }
 
 #patrocinador img{
-    width: 76px;
-    height: 30px;
+    width: 70px;
+    height: 70px;
 }
 
 #final{
