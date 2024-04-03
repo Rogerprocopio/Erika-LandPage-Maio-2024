@@ -24,6 +24,14 @@ body{
     overflow-x: hidden;
 }
 
+body{
+    @media (max-width: 767px) {
+        main {
+            overflow-x: hidden;
+        }
+    }
+}
+
 #gratuita{
     display: flex;
     justify-content: center;
